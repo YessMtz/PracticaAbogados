@@ -1,0 +1,11 @@
+C:\Users\LAB-DSC-ITT\Desktop\PracticaAbogados\Proyecto Unidad 4 -ABOGADOS\Proyecto Unidad 4 -ABOGADOS\bin\Debug\Proyecto Unidad 4 -ABOGADOS.exe.config
+C:\Users\LAB-DSC-ITT\Desktop\PracticaAbogados\Proyecto Unidad 4 -ABOGADOS\Proyecto Unidad 4 -ABOGADOS\bin\Debug\Proyecto Unidad 4 -ABOGADOS.exe
+C:\Users\LAB-DSC-ITT\Desktop\PracticaAbogados\Proyecto Unidad 4 -ABOGADOS\Proyecto Unidad 4 -ABOGADOS\bin\Debug\Proyecto Unidad 4 -ABOGADOS.pdb
+C:\Users\LAB-DSC-ITT\Desktop\PracticaAbogados\Proyecto Unidad 4 -ABOGADOS\Proyecto Unidad 4 -ABOGADOS\obj\Debug\Proyecto Unidad 4 -ABOGADOS.csproj.AssemblyReference.cache
+C:\Users\LAB-DSC-ITT\Desktop\PracticaAbogados\Proyecto Unidad 4 -ABOGADOS\Proyecto Unidad 4 -ABOGADOS\obj\Debug\Proyecto Unidad 4 -ABOGADOS.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAB-DSC-ITT\Desktop\PracticaAbogados\Proyecto Unidad 4 -ABOGADOS\Proyecto Unidad 4 -ABOGADOS\obj\Debug\Proyecto_Unidad_4__ABOGADOS.PantallaBienvenida.resources
+C:\Users\LAB-DSC-ITT\Desktop\PracticaAbogados\Proyecto Unidad 4 -ABOGADOS\Proyecto Unidad 4 -ABOGADOS\obj\Debug\Proyecto_Unidad_4__ABOGADOS.Properties.Resources.resources
+C:\Users\LAB-DSC-ITT\Desktop\PracticaAbogados\Proyecto Unidad 4 -ABOGADOS\Proyecto Unidad 4 -ABOGADOS\obj\Debug\Proyecto Unidad 4 -ABOGADOS.csproj.GenerateResource.cache
+C:\Users\LAB-DSC-ITT\Desktop\PracticaAbogados\Proyecto Unidad 4 -ABOGADOS\Proyecto Unidad 4 -ABOGADOS\obj\Debug\Proyecto Unidad 4 -ABOGADOS.csproj.CoreCompileInputs.cache
+C:\Users\LAB-DSC-ITT\Desktop\PracticaAbogados\Proyecto Unidad 4 -ABOGADOS\Proyecto Unidad 4 -ABOGADOS\obj\Debug\Proyecto Unidad 4 -ABOGADOS.exe
+C:\Users\LAB-DSC-ITT\Desktop\PracticaAbogados\Proyecto Unidad 4 -ABOGADOS\Proyecto Unidad 4 -ABOGADOS\obj\Debug\Proyecto Unidad 4 -ABOGADOS.pdb

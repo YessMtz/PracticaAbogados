@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Proyecto_Unidad_4__ABOGADOS
 {
-    public partial class PantallaBienvenida : Form
+    public partial class Registro_Cliente : Form
     {
-        public PantallaBienvenida()
+        public Registro_Cliente()
         {
             InitializeComponent();
-        }
-
-        private void PantallaBienvenida_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
