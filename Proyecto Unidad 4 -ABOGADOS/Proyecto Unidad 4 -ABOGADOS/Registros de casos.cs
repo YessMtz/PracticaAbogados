@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Proyecto_Unidad_4__ABOGADOS
 {
-    public partial class Registro_Procurador: Form
+    public partial class Registros_de_casos : Form
     {
-        public Registro_Procurador()
+        public Registros_de_casos()
         {
             InitializeComponent();
         }

@@ -19,7 +19,7 @@ namespace Proyecto_Unidad_4__ABOGADOS
 
         private void PantallaBienvenida_Load(object sender, EventArgs e)
         {
-
+            Timer transicion1 = new Timer();
         }
     }
 }
