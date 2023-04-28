@@ -58,6 +58,12 @@
     <Compile Include="Informacion Casos.Designer.cs">
       <DependentUpon>Informacion Casos.cs</DependentUpon>
     </Compile>
+    <Compile Include="Informacion de Casos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Informacion de Casos.Designer.cs">
+      <DependentUpon>Informacion de Casos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Registro Cliente.cs">
@@ -89,6 +95,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Informacion Casos.resx">
       <DependentUpon>Informacion Casos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Informacion de Casos.resx">
+      <DependentUpon>Informacion de Casos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
